@@ -1,0 +1,19 @@
+Numeros para el Mejor Caso
+
+real (Tiempo total)  0.0000069141 s
+
+
+real (Tiempo total)  0.0000128746 s
+
+Numeros para el Peor Caso
+
+real (Tiempo total)  0.0000076526 s
+
+
+real (Tiempo total)  0.0000199209 s
+
+Promedios para el Caso Normal
+real (Tiempo total)  0.0000072023 s
+
+real (Tiempo total)  0.0000161959 s
+
